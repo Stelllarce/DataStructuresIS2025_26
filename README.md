@@ -19,7 +19,7 @@
 | Седмица | Тема | Материали |
 |---------|------|-----------|
 | 1 |Преговор на шаблони и рекурсия. Сложност. | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week01) |
-| 2 | | |
+| 2 |Вектор| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week02) |
 | 3 | | |
 | 4 | | |
 | 5 | | |
