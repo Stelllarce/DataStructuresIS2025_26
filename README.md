@@ -20,7 +20,7 @@
 |---------|------|-----------|
 | 1 |Преговор на шаблони и рекурсия. Сложност. | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week01) |
 | 2 |Вектор| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week02) |
-| 3 | | |
+| 3 | Стек | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week03) |
 | 4 | | |
 | 5 | | |
 | 6 | | |
