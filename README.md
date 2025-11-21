@@ -23,7 +23,7 @@
 | 3 | Стек | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week03) |
 | 4 | Опашка | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week04) |
 | 5 | Едносвързан списък | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week05) |
-| 6 | | |
+| 6 | Двусвързан списък | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week06) |
 | 7 | | |
 | 8 | | |
 | 9 | | |
