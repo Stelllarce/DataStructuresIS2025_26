@@ -1,0 +1,1 @@
+[Можете да намерите теорията и задачите тук](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week07/Trees.md#binary-tree-двоично-дърво)
