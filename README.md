@@ -24,8 +24,8 @@
 | 4 | Опашка | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week04) |
 | 5 | Едносвързан списък | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week05) |
 | 6 | Двусвързан списък | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week06) |
-| 7 | | |
-| 8 | | |
+| 7 | Дървета | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week07) |
+| 8 | Подготовка за К1, Двоични дървета за търсене| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week08) |
 | 9 | | |
 | 10 | | |
 | 11 | | |
@@ -36,9 +36,16 @@
 
 ---
 
+## 📚 Допълнителни материали
+
+| Тема | Материали |
+|------|-----------|
+| CMake и Unit testing с Catch2 | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Supplementary/Cmake) |
+
 ## 📚 Препоръчани ресурси
 
 ### Онлайн ресурси
+
 - [VisuAlgo](https://visualgo.net/) - Визуализация на структури от данни и алгоритми
 - [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/) - Теория и задачи
 - [LeetCode](https://leetcode.com/) - Практика
