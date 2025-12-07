@@ -26,7 +26,7 @@
 | 6 | Двусвързан списък | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week06) |
 | 7 | Дървета | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week07) |
 | 8 | Подготовка за К1, Двоични дървета за търсене| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week08) |
-| 9 | | |
+| 9 | Задачи за BST| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week09) |
 | 10 | | |
 | 11 | | |
 | 12 | | |
