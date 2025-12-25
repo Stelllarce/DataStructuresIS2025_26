@@ -27,8 +27,8 @@
 | 7 | Дървета | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week07) |
 | 8 | Подготовка за К1, Двоични дървета за търсене| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week08) |
 | 9 | Задачи за BST| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week09) |
-| 10 | | |
-| 11 | | |
+| 10 | Пирамида, проритетна опашка| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week10) |
+| 11 | Графи и хеш таблици (отворена адресация) | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week11) |
 | 12 | | |
 | 13 | | |
 | 14 | | |
