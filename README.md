@@ -30,7 +30,7 @@
 | 10 | Пирамида, проритетна опашка| [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week10) |
 | 11 | Графи и хеш таблици (отворена адресация) | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week11) |
 | 12 | Хеш таблици (разделяне по вериги) | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week12) |
-| 13 | | |
+| 13 | Сортиращи алгоритми | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Week13) |
 
 ---
 
