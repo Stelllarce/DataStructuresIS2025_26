@@ -39,6 +39,7 @@
 | Тема | Материали |
 |------|-----------|
 | CMake и Unit testing с Catch2 | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Supplementary/Cmake) |
+| Подготовка за сесия | [link](https://github.com/Stelllarce/DataStructuresIS2025_26/tree/main/Supplementary/Finals) |
 
 ## 📚 Препоръчани ресурси
 
